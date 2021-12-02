@@ -1,0 +1,16 @@
+INSERT INTO voivodeship (voivodeship_name) VALUES ('dolnośląskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('kujawsko-pomorskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('lubelskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('lubuskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('łódzkie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('małopolskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('mazowieckie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('opolskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('podkarpackie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('podlaskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('pomorskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('śląskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('świętokrzyskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('warmińsko-mazurskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('wielkopolskie');
+INSERT INTO voivodeship (voivodeship_name) VALUES ('zachodniopomorskie');
